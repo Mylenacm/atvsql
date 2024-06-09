@@ -108,3 +108,5 @@ order by pais;
 
 ![image](https://github.com/Mylenacm/atvsql/assets/145984011/1fbacec5-4d99-489a-afbe-41c7da3dd632)
 
+![image](https://github.com/Mylenacm/atvsql/assets/145984011/fd4b33a1-b770-48f1-a6d2-a3bbb777c507)
+
